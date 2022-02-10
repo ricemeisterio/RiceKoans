@@ -1,7 +1,9 @@
 <p align="center">
-<img width="300px" src="https://raw.githubusercontent.com/NotMyself/DotNetCoreKoans/master/static/img/dot-net-core-koans-logo.svg" />
+<img width="300px" src="static/img/ricemeisterio.JPG" />
 </p>
 
+# Rice Koans 
+forked and based on [NotMyself/DotNetCoreKoans](https://github.com/Notmyself/DotNetCoreKoans)
 
 # .Net Core Koans 
 [![Build status](https://ci.appveyor.com/api/projects/status/j0ykx336513hmnep/branch/master?svg=true)](https://ci.appveyor.com/project/NotMyself/dotnetcorekoans/branch/master)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
